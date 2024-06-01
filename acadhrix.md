@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AcaDhrix
+permalink: /acadhrix
 ---
 # AcaDhrix
 
