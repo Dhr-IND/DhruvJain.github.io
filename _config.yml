@@ -1,18 +1,12 @@
 theme: jekyll-theme-slate
 
 title: My Futuristic Website
-description: >- 
-  A personal website showcasing my research and interests.
+description: A personal website showcasing my research and interests.
 
 # Navigation Links
-navigation:
-  - title: Home
-    url: /
-  - title: Profile
-    url: /profile
-  - title: AcaDhrix
-    url: /acadhrix
-  - title: Explore
-    url: /explore
-  - title: Contact Me
-    url: /contact
+header_pages:
+  - index.md
+  - profile.md
+  - acadhrix.md
+  - explore.md
+  - contact.md
